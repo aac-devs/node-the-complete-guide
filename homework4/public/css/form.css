@@ -1,0 +1,42 @@
+.users-form {
+  width: 300px;
+  margin: 0;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 5px 5px 20px rgb(80, 79, 79);
+}
+
+.form-control {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.form-control label {
+  margin-bottom: 0.5rem;
+}
+
+.form-control input {
+  border-radius: 3px;
+  border: 1px solid rgb(88, 28, 28);
+  padding: 5px;
+  font-size: 16px;
+  font-family: inherit;
+}
+
+.btn {
+  width: 100%;
+  background-color: #fff;
+  color: rgb(88, 28, 28);
+  border: 2px solid rgb(88, 28, 28);
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(88, 28, 28);
+  color: #fff;
+}
