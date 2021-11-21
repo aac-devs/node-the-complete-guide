@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123456",
+    "title": "A New Book",
+    "imageUrl": "https://www.ukrgate.com/eng/wp-content/uploads/2021/02/The-Ukrainian-Book-Institute-Purchases-380.9-Thousand-Books-for-Public-Libraries1.jpeg",
+    "description": "This is an awesome book!",
+    "price": "25.25"
+  },
+  {
+    "title": "A Pencil",
+    "imageUrl": "https://www.consalud.es/uploads/s1/16/48/73/1/mina-de-lapiz-foto-pixabay.jpeg",
+    "description": "An awesome pencil!!",
+    "price": "5.18",
+    "id": "0.17102054379749942"
+  }
+]
